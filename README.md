@@ -1,4 +1,4 @@
-# CobaltExec
+#COBALT EXECUTOR
 
 Cobalt Executor is a lightweight, high-performance execution environment designed for running custom scripts and modules securely.
 
@@ -24,30 +24,15 @@ No Derivative Works: You may not modify or fork this software for the purpose of
 
 For full legal details, please read the LICENSE file included in this repository.
 
-Prerequisites
-
-Before setting up Cobalt Executor, ensure you have the following installed:
-
-Runtime / Environment (e.g., Node.js v18+, .NET 8.0, or Python 3.10+)
-
-Required C++ / System dependencies (if applicable)
-
 Installation & Setup
 
-Follow these steps to set up and launch Cobalt Executor locally:
+Go to the Releases page of this repository.
 
-# Clone the repository
-git clone https://github.com/your-username/cobalt-executor.git
+Download the latest release package.
 
-# Navigate to the project directory
-cd cobalt-executor
+Extract the downloaded files to your desired folder.
 
-# Build or install dependencies
-npm install
-
-# Start Cobalt Executor
-npm start
-
+Right-click the application executable and select Run as administrator.
 
 Contact & Licensing Inquiries
 
